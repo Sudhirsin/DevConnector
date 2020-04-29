@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://sud123:sud123@devconnector-sitdu.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"sudhir",
+    "githubClientId": "174675b3718dcf80b39b",
+    "githubSecret": "8d37659cf3ee7ab2b81e977d30d80e7f8717030a"
+}
